@@ -1,8 +1,8 @@
 """
 27 - Remove Element
 https://leetcode.com/problems/remove-element/
-"""
-"""
+
+
 note: When deleting elements of an array while looping with a for, Make an error "Out range of index"
       because total length will be change for every loop.
 
